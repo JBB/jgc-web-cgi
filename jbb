@@ -1,4 +1,0 @@
-my $LOG = "log.dat";
-open (FILE, ">>$LOG") or die "Cannot open $LOG: $!";
-print FILE ,"JBB";
-close(FILE); 

@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 
-my $email = "jaybrianb\@yahoo.com";
+my $email = "lpatron\@stanford.edu";
 my $reg_email = "";
 
 print "Content-type: text/html\n\n";

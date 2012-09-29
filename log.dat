@@ -1,0 +1,36 @@
+Top of log
+200 Success
+jaybrianb@yahoo.com at Sat Sep 29 13:51:41 2012
+jaybrianb@yahoo.com at Sat Sep 29 14:17:40 2012
+hendrick@binlog.org at Sat Sep 29 14:18:06 2012
+403 Error, invalid email
+403 Error, invalid email
+JBB in content_length section, value is email=jaybrianb%40yahoo.com _JBB
+403 Error, invalid email
+JBB in content_length section, value is email=jaybrianb%40yahoo.com _JBB
+403 Error, invalid email
+JBB in content_length section, value is email=jaybrianb%40yahoo.com _JBB
+403 Error, invalid email
+JBB in content_length section, value is email=gretzky%40stanford.edu _JBB
+403 Error, invalid email
+JBB in content_length section, value is email=gretzky%40stanford.edu _JBB
+JBB after split, name is  and value is 
+403 Error, invalid email
+JBB in content_length section, value is email=gretzky%40stanford.edu _JBB
+JBB after split, buffer is , name is  and value is 
+403 Error, invalid email
+JBB in content_length section, value is email=gretzky%40stanford.edu _JBB
+JBB after split, buffer is , name is  and value is 
+403 Error, invalid email
+JBB in content_length section, value is email=gretzky%40stanford.edu _JBB
+JBB after split, buffer is email=gretzky%40stanford.edu, name is email and value is gretzky%40stanford.edu
+gretzky@stanford.edu at Sat Sep 29 14:45:35 2012
+JBB in query str section, value is email=jaybrianb@yahoo.com _JBB
+JBB after split, buffer is email=jaybrianb@yahoo.com, name is email and value is jaybrianb@yahoo.com
+jaybrianb@yahoo.com at Sat Sep 29 14:46:01 2012
+JBB in query str section, value is email=gretzky@stanford.edu _JBB
+JBB after split, buffer is email=gretzky@stanford.edu, name is email and value is gretzky@stanford.edu
+gretzky@stanford.edu at Sat Sep 29 14:46:41 2012
+JBB in query str section, value is email=hendrick@stm.org _JBB
+JBB after split, buffer is email=hendrick@stm.org, name is email and value is hendrick@stm.org
+hendrick@stm.org at Sat Sep 29 14:47:42 2012
